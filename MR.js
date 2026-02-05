@@ -1,4 +1,4 @@
- const stone = getDocumentById('stone')
+ const stone = document.getDocumentById('stone')
 
  const randomNumber = Math.floor(Math.random() *10) +1;
 
