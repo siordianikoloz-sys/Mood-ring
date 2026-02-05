@@ -1,6 +1,6 @@
  const stone = document.getDocumentById('stone')
 
- const randomNumber = Math.floor(Math.random() *10) +1;
+ const randomNumber = Math.floor(Math.random() *10) + 1;
 
  if (randomNumber ===1){
    stone.style.backgroundColor =" red ";
